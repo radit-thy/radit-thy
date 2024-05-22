@@ -17,7 +17,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="45"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Laravel" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" /></a> 
+<a href="https://laravel.com/" target="_blank"><img align="center" alt="LARAVEL" width="40px" style="margin-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /></a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -25,9 +25,11 @@
 
  </p>
 
+### 📊 Stats and Streak
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radit-thy&show_icons=true&locale=en" alt="radit-thy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radit-thy&" alt="radit-thy" /></p>
+![Radit's GitHub stats](https://github-readme-stats.vercel.app/api?username=radit-thy&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=radit-thy&theme=gruvbox&border_radius=4.5)
+
 
 
 ## Connect with me  
